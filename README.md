@@ -64,9 +64,9 @@ Jika menggunakan IntelliJ IDEA, kamu dapat langsung menjalankan kelas Base.Cucum
 ## 📊 Laporan Pengujian (Test Reports)
 Setelah eksekusi tes selesai, laporan otomatis akan dibuat pada direktori berikut:
 
-HTML Report: build/reports/cucumber/cucumber.html
+HTML Report: reports/cucumber/cucumber.html
 
-JSON Report: build/reports/cucumber/cucumber.json
+JSON Report: reports/cucumber/cucumber.json
 
 Tips: Buka file cucumber.html menggunakan browser (Chrome/Edge/Firefox) untuk melihat ringkasan visual hasil pengujian (Passed, Failed, Skipped).
 
