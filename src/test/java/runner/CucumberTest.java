@@ -12,7 +12,7 @@ import org.junit.platform.suite.api.Suite;
 @ConfigurationParameter(key = Constants.GLUE_PROPERTY_NAME, value = "stepdef")
 @ConfigurationParameter(
         key = Constants.PLUGIN_PROPERTY_NAME,
-        value = "pretty,html:reports/cucumber.html,json:reports/cucumber.json"
+        value = "pretty,html:reports/index.html,json:reports/cucumber.json"
 )
 public class CucumberTest {
 }
